@@ -1,2 +1,16 @@
-# startupNamer
-A simple Application built with Google's Flutter SDK and Dart in Android Studio. Wanting to expand my mobile App development skills, I decided to try my hand at Flutter. This introductory app was the perfect place to get started with Flutter and Dart and is compatible with both Android and iOS devices. The app randomly generates a list of two-word Start-Up Company names. As the user scrolls down through the app, more names are generated. This process continues forever. The names are generated from Google's English Language Plug-in. The user has the ability to favourite word-pairings, which are then added to their favourites list, another page in the app which can be quickly accessed to view all of their favourites.
+# startupnamer
+
+An application for randomly generating the names of startups
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
